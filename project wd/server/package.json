@@ -7,7 +7,7 @@
     "dev": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "jagadeeswar",
+  "author": "srinikethan",
   "license": "ISC",
   "dependencies": {
     "@clerk/express": "^1.3.46",
